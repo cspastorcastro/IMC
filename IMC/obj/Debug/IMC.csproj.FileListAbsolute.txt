@@ -1,0 +1,7 @@
+C:\Users\laboratorio6\source\repos\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\laboratorio6\source\repos\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\laboratorio6\source\repos\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\laboratorio6\source\repos\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\laboratorio6\source\repos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio6\source\repos\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\laboratorio6\source\repos\IMC\IMC\obj\Debug\IMC.pdb
