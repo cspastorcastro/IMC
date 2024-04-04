@@ -1,0 +1,6 @@
+T:\IMC\IMCModel\bin\Debug\IMCModel.dll
+T:\IMC\IMCModel\bin\Debug\IMCModel.pdb
+T:\IMC\IMCModel\obj\Debug\IMCModel.csproj.AssemblyReference.cache
+T:\IMC\IMCModel\obj\Debug\IMCModel.csproj.CoreCompileInputs.cache
+T:\IMC\IMCModel\obj\Debug\IMCModel.dll
+T:\IMC\IMCModel\obj\Debug\IMCModel.pdb

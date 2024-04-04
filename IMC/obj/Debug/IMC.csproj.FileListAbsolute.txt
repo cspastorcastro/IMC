@@ -5,3 +5,13 @@ C:\Users\laboratorio6\source\repos\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReferenc
 C:\Users\laboratorio6\source\repos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
 C:\Users\laboratorio6\source\repos\IMC\IMC\obj\Debug\IMC.exe
 C:\Users\laboratorio6\source\repos\IMC\IMC\obj\Debug\IMC.pdb
+T:\IMC\IMC\bin\Debug\IMC.exe.config
+T:\IMC\IMC\bin\Debug\IMC.exe
+T:\IMC\IMC\bin\Debug\IMC.pdb
+T:\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+T:\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+T:\IMC\IMC\obj\Debug\IMC.exe
+T:\IMC\IMC\obj\Debug\IMC.pdb
+T:\IMC\IMC\bin\Debug\IMCModel.dll
+T:\IMC\IMC\bin\Debug\IMCModel.pdb
+T:\IMC\IMC\obj\Debug\IMC.csproj.Up2Date
