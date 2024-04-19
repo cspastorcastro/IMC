@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "T:\\IMC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{026D9A0D-6A13-49FB-A72F-8C7F29290771}|IMC\\IMC.csproj|t:\\imc\\imc\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{026D9A0D-6A13-49FB-A72F-8C7F29290771}|IMC\\IMC.csproj|solutionrelative:imc\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|t:\\imc\\imcmodel\\dal\\personasdalarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|solutionrelative:imcmodel\\dal\\personasdalarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{026D9A0D-6A13-49FB-A72F-8C7F29290771}|IMC\\IMC.csproj|t:\\imc\\imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{026D9A0D-6A13-49FB-A72F-8C7F29290771}|IMC\\IMC.csproj|solutionrelative:imc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|t:\\imc\\imcmodel\\dal\\personadalobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|solutionrelative:imcmodel\\dal\\personadalobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026D9A0D-6A13-49FB-A72F-8C7F29290771}|IMC\\IMC.csproj|t:\\imc\\imc\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{026D9A0D-6A13-49FB-A72F-8C7F29290771}|IMC\\IMC.csproj|solutionrelative:imc\\operaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|t:\\imc\\imcmodel\\dto\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|solutionrelative:imcmodel\\dto\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|t:\\imc\\imcmodel\\dal\\personadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|solutionrelative:imcmodel\\dal\\personadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|t:\\imc\\imcmodel\\dal\\ipersonasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF276C68-ACE1-4794-B1C9-A72F6A28987B}|IMCModel\\IMCModel.csproj|solutionrelative:imcmodel\\dal\\ipersonasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonaDAL.cs",
-              "DocumentMoniker": "T:\\IMC\\IMCModel\\DAL\\PersonaDAL.cs",
-              "RelativeDocumentMoniker": "IMCModel\\DAL\\PersonaDAL.cs",
-              "ToolTip": "T:\\IMC\\IMCModel\\DAL\\PersonaDAL.cs",
-              "RelativeToolTip": "IMCModel\\DAL\\PersonaDAL.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAAsAAAA",
+              "DocumentIndex": 0,
+              "Title": "PersonasDALArchivos.cs",
+              "DocumentMoniker": "T:\\IMC\\IMCModel\\DAL\\PersonasDALArchivos.cs",
+              "RelativeDocumentMoniker": "IMCModel\\DAL\\PersonasDALArchivos.cs",
+              "ToolTip": "T:\\IMC\\IMCModel\\DAL\\PersonasDALArchivos.cs",
+              "RelativeToolTip": "IMCModel\\DAL\\PersonasDALArchivos.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T22:32:32.202Z",
+              "WhenOpened": "2024-04-18T23:43:19.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "T:\\IMC\\IMCModel\\DTO\\Persona.cs",
-              "RelativeDocumentMoniker": "IMCModel\\DTO\\Persona.cs",
-              "ToolTip": "T:\\IMC\\IMCModel\\DTO\\Persona.cs",
-              "RelativeToolTip": "IMCModel\\DTO\\Persona.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAIAAAA",
+              "DocumentIndex": 4,
+              "Title": "IPersonasDAL.cs",
+              "DocumentMoniker": "T:\\IMC\\IMCModel\\DAL\\IPersonasDAL.cs",
+              "RelativeDocumentMoniker": "IMCModel\\DAL\\IPersonasDAL.cs",
+              "ToolTip": "T:\\IMC\\IMCModel\\DAL\\IPersonasDAL.cs",
+              "RelativeToolTip": "IMCModel\\DAL\\IPersonasDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T22:24:22.639Z",
+              "WhenOpened": "2024-04-18T23:34:16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "T:\\IMC\\IMC\\Program.cs",
-              "RelativeDocumentMoniker": "IMC\\Program.cs",
-              "ToolTip": "T:\\IMC\\IMC\\Program.cs",
-              "RelativeToolTip": "IMC\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PersonaDALObjetos.cs",
+              "DocumentMoniker": "T:\\IMC\\IMCModel\\DAL\\PersonaDALObjetos.cs",
+              "RelativeDocumentMoniker": "IMCModel\\DAL\\PersonaDALObjetos.cs",
+              "ToolTip": "T:\\IMC\\IMCModel\\DAL\\PersonaDALObjetos.cs",
+              "RelativeToolTip": "IMCModel\\DAL\\PersonaDALObjetos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T22:34:00.382Z",
+              "WhenOpened": "2024-04-18T23:00:53.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "T:\\IMC\\IMC\\Operaciones\\Program.cs",
               "RelativeDocumentMoniker": "IMC\\Operaciones\\Program.cs",
               "ToolTip": "T:\\IMC\\IMC\\Operaciones\\Program.cs",
               "RelativeToolTip": "IMC\\Operaciones\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAwwFIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T22:12:40.673Z",
+              "WhenOpened": "2024-04-18T22:23:55.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "T:\\IMC\\IMCModel\\DTO\\Persona.cs",
+              "RelativeDocumentMoniker": "IMCModel\\DTO\\Persona.cs",
+              "ToolTip": "T:\\IMC\\IMCModel\\DTO\\Persona.cs",
+              "RelativeToolTip": "IMCModel\\DTO\\Persona.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:17:33.696Z",
               "EditorCaption": ""
             }
           ]

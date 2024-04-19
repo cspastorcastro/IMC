@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DAL\PersonaDAL.cs" />
+    <Compile Include="DAL\IPersonasDAL.cs" />
+    <Compile Include="DAL\PersonaDALObjetos.cs" />
+    <Compile Include="DAL\PersonasDALArchivos.cs" />
     <Compile Include="DTO\Persona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -9,12 +9,13 @@ namespace IMC
 {
     public partial class Program
     {
+        static IPersonasDAL personasDAL = new PersonasDALArchivos();
         static void MostrarPersona()
         {
-            List<Persona> lista = new PersonaDAL().ObtenerPersonas();
+            List<Persona> lista = personasDAL.ObtenerPersonas();
             foreach (Persona p in lista)
             {
-                Console.WriteLine(p.Nombre);
+                Console.WriteLine(p.Nombre + ": " + p.imc.Valor + " - " + p.imc.Texto);
             }
         }
 
@@ -23,11 +24,10 @@ namespace IMC
             Console.WriteLine("Ingrese nombre para filtrar: ");
             string filtro = Console.ReadLine().Trim();
 
-            List<Persona> lista = new PersonaDAL().FiltrarPersonas(filtro);
+            List<Persona> lista = personasDAL.FiltrarPersonas(filtro);
             foreach (Persona p in lista)
             {
-                Console.WriteLine(p.Nombre);
-                MostrarImc(p.Peso, p.Estatura);
+                Console.WriteLine(p.Nombre + ": " + p.imc.Valor + " - " + p.imc.Texto);
             }
 
         }
@@ -98,10 +98,16 @@ namespace IMC
             p.Telefono = uint.Parse(telefono);
             */
 
-            PersonaDAL pDAL = new PersonaDAL();
+            PersonaDALObjetos pDAL = new PersonaDALObjetos();
+            p.CalcularIMC();
             pDAL.AgregarPersona(p);
+            personasDAL.AgregarPersona(p);
 
-            MostrarImc(p.Peso, p.Estatura);
+            Console.WriteLine("Su IMC es de {0}", p.imc.Valor);
+            Console.WriteLine("Usted se encuentra en el rango de {0}.", p.imc.Texto);
+            Console.ReadKey();
+
+            //MostrarImc(p.Peso, p.Estatura);
         }
 
         static void MostrarImc(float peso, float estatura)
@@ -122,6 +128,7 @@ namespace IMC
 
             estatura /= 100;
             return peso / (estatura * estatura);
+
         }
 
         static string GetRangoImc(float imc)

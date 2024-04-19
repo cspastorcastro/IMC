@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IMCModel
 {
-    public class PersonaDAL
+    public class PersonaDALObjetos : IPersonasDAL
     {
         // 1. Crear una lista para guardar personas
         private static List<Persona> personas = new List<Persona>();
